@@ -172,3 +172,7 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+/NOGIT/
+/dataset/RealBokeh_3MP/
+/dataset/EBB400/
+/dataset/EBB_Val294/
